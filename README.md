@@ -27,8 +27,10 @@ javascript:function _0x5940(){const _0x5b9400=['appendChild','replace','boxShado
 ## Resultados:
 
 <p align="center">
-  <img height="250" src="https://i.ibb.co/xS8zDFwF/19-BBE411-C3-A1-4588-BBBC-C38933-B79414.png" alt="Resultado">
+  <img height="450" src="https://i.ibb.co/xS8zDFwF/19-BBE411-C3-A1-4588-BBBC-C38933-B79414.png" alt="Resultado">
 </p>
+
+## Minhas estatísticas:
 
 <p align="center">
   <img height="150" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=miikudev&theme=react" alt="Mikudev GitHub stats" />
